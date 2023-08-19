@@ -35,3 +35,18 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Memory in JAVASCRIPT
+
+/*
+Primitive Datatype
+-Memory will be allocated in Stack area
+-while assigmene, a copy of the original variable will be provided.
+
+
+Non Primitive Datatype
+-Memory will be allocated in Heap area
+-while assigmenet, the original obj reference will be provided
+
+*/
