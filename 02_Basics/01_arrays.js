@@ -20,9 +20,9 @@ const myArr2 = new Array(1, 2, 3, 4)         //Array Declaratiion
 
 //++++++++++++++++++++++++++++++ Array methods
 
- //myArr.push(6)     //Add element in the end of array
+ //myArr.push(6)     //Add element in the end of array ; this changes original array
 // myArr.push(7)    
-// myArr.pop()       //remove element from the end of array
+// myArr.pop()       //remove element from the end of array ; this changes original array
 //console.log(myArr);
 
 // myArr.unshift(9)  //Add element in the front of array
