@@ -63,7 +63,7 @@ const course = {
 
 // course.courseInstructor
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course //ARRAY DESTRUCTURING
 
 // console.log(courseInstructor);
 console.log(instructor);
